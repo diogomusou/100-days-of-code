@@ -10,3 +10,12 @@
 
 **Link to work:** [Tribute Page](https://codepen.io/diogomusou/pen/PmPJaX)
 
+### Day 2: April 19th, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): finished 80% of the project "Tribute Page" on Miyamoto Musashi. 
+
+**Thoughts:** FCC: I forgot many things that I had learned last year, but it's comming back little by little. Thinking about the words and layout is the hardest part...
+
+**Discoveries:** bootstrap: blockquote, figure
+
+**Link to work:** [Tribute Page on codepen](https://codepen.io/diogomusou/pen/PmPJaX) or [Tribute Page on github](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicFrontEndDevProjects/TributePage)
