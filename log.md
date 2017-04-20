@@ -19,3 +19,13 @@
 **Discoveries:** bootstrap: blockquote, figure
 
 **Link to work:** [Tribute Page on codepen](https://codepen.io/diogomusou/pen/PmPJaX) or [Tribute Page on github](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicFrontEndDevProjects/TributePage)
+
+### Day 3: April 20th, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): finished 100% of the project "Tribute Page" on Miyamoto Musashi. 
+
+**Thoughts:** FCC: I was basically writing the text part today... I wish I was better on this.
+
+**Discoveries:** Miyamoto Musashi has written other books than the Book of Five Rings... hmmm... got to read that.
+
+**Link to work:** [Tribute Page on my website](http://diogomusou.com/test/MiyamotoMusashi/index.html) or [Tribute Page on codepen](https://codepen.io/diogomusou/pen/PmPJaX) or [Tribute Page on github](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicFrontEndDevProjects/TributePage)
