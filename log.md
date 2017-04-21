@@ -29,3 +29,13 @@
 **Discoveries:** Miyamoto Musashi has written other books than the Book of Five Rings... hmmm... got to read that.
 
 **Link to work:** [Tribute Page on my website](http://diogomusou.com/test/MiyamotoMusashi/index.html) or [Tribute Page on codepen](https://codepen.io/diogomusou/pen/PmPJaX) or [Tribute Page on github](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicFrontEndDevProjects/TributePage)
+
+### Day 4: April 21th, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): Finished 100% of the project "Portfolio Page" (kind of transfered my existing one). Finished about 70% of the "Basic JavaScript" section.
+
+**Thoughts:** FCC: Although it's still the basic part, I'm learning somethings that I hadn't studied yet. It's good for my foundation.
+
+**Discoveries:** push() pop() shift() unshift() === strictly equal
+
+**Link to work:** [My real Portfolio](http://diogomusou.com) or [Tribute Page on codepen](https://codepen.io/diogomusou/pen/NjNOry)
