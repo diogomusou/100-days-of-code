@@ -30,7 +30,7 @@
 
 **Link to work:** [Tribute Page on my website](http://diogomusou.com/test/MiyamotoMusashi/index.html) or [Tribute Page on codepen](https://codepen.io/diogomusou/pen/PmPJaX) or [Tribute Page on github](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicFrontEndDevProjects/TributePage)
 
-### Day 4: April 21th, 2017
+### Day 4: April 21st, 2017
 
 **Today's Progress**: freeCodeCamp(FCC): Finished 100% of the project "Portfolio Page" (kind of transfered my existing one). Finished about 70% of the "Basic JavaScript" section.
 
@@ -39,3 +39,13 @@
 **Discoveries:** push() pop() shift() unshift() === strictly equal
 
 **Link to work:** [My real Portfolio](http://diogomusou.com) or [Tribute Page on codepen](https://codepen.io/diogomusou/pen/NjNOry)
+
+### Day 5: April 22nd, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): Finished 100% of the "Basic JavaScript" section.
+
+**Thoughts:** FCC: I was a little busy today but thanks to #100DaysOfCode I created some time to code.
+
+**Discoveries:** hasOwnProperty()
+
+**Link to work:** [some of the basic javascript solutions](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicJavaScript)
