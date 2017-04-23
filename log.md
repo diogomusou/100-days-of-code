@@ -46,6 +46,16 @@
 
 **Thoughts:** FCC: I was a little busy today but thanks to #100DaysOfCode I created some time to code.
 
-**Discoveries:** hasOwnProperty()
+**Discoveries:** hasOwnProperty(), Math.floor(Math.random() * (max - min + 1)) + min  ,  /and/gi   /\d+/g
 
 **Link to work:** [some of the basic javascript solutions](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicJavaScript)
+
+### Day 6: April 23rd, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): Finished 100% of the "Object Oriented and Functional Programming" section, and some of the Basic Algorithm Scripting.
+
+**Thoughts:** FCC: knowing the methods available can be very useful  :)   
+
+**Discoveries:** .map(function(val){}),  .reduce(function(previousVal,currentVal){},0),  .filter(function(val){return val<6})), .sort(function(a,b){return a - b;}), .concat(), .split(), .join()
+
+**Link to work:** [basic algorithm scripting solutions](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicAlgorithmScripting)
