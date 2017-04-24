@@ -62,9 +62,9 @@
 
 ### Day 7: April 24th, 2017
 
-**Today's Progress**: freeCodeCamp(FCC): Finished 60% of the Basic Algorithm Scripting.
+**Today's Progress**: freeCodeCamp(FCC): Finished 90% of the Basic Algorithm Scripting.
 
-**Thoughts:** FCC:   
+**Thoughts:** FCC: Algorithm is fun! 
 
 **Discoveries:** .slice(startindex,endindex) .substr(startindex,length), .substring(startindex,endindex)
 
