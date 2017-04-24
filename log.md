@@ -56,6 +56,16 @@
 
 **Thoughts:** FCC: knowing the methods available can be very useful  :)   
 
-**Discoveries:** .map(function(val){}),  .reduce(function(previousVal,currentVal){},0),  .filter(function(val){return val<6})), .sort(function(a,b){return a - b;}), .concat(), .split(), .join()
+**Discoveries:** .map(function(val){}),  .reduce(function(previousVal,currentVal){},0),  .filter(function(val){return val<6})), .sort(function(a,b){return a - b;}), .concat(), .split(), .join(), **Array can't be simply compared**, .replace(/[^a-zA-Z0-9]+/g,"")
+
+**Link to work:** [basic algorithm scripting solutions](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicAlgorithmScripting)
+
+### Day 7: April 24th, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): Finished 60% of the Basic Algorithm Scripting.
+
+**Thoughts:** FCC:   
+
+**Discoveries:** .slice(startindex,endindex) .substr(startindex,length), .substring(startindex,endindex)
 
 **Link to work:** [basic algorithm scripting solutions](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicAlgorithmScripting)
