@@ -72,9 +72,9 @@
 
 ### Day 8: April 25th, 2017
 
-**Today's Progress**: freeCodeCamp(FCC): Finished all the Basic Algorithm Scripting and JSON APIs and Ajax. Starting the random quote machine project now.
+**Today's Progress**: freeCodeCamp(FCC): Finished all the Basic Algorithm Scripting and JSON APIs and Ajax. Starting the random quote machine project now.  Treehouse: Watching the basic UX course.
 
-**Thoughts:** FCC: Algorithm is fun! 
+**Thoughts:** FCC: Having a hard time with API and ajax...
 
 **Discoveries:** .fromCharCode()  .charCodeAt() 
 
