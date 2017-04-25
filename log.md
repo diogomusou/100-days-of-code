@@ -69,3 +69,13 @@
 **Discoveries:** .slice(startindex,endindex) .substr(startindex,length), .substring(startindex,endindex)
 
 **Link to work:** [basic algorithm scripting solutions](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicAlgorithmScripting)
+
+### Day 8: April 25th, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): Finished all the Basic Algorithm Scripting and JSON APIs and Ajax. Starting the random quote machine project now.
+
+**Thoughts:** FCC: Algorithm is fun! 
+
+**Discoveries:** .fromCharCode()  .charCodeAt() 
+
+**Link to work:** [basic algorithm scripting solutions](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicAlgorithmScripting)
