@@ -79,3 +79,13 @@
 **Discoveries:** .fromCharCode()  .charCodeAt() 
 
 **Link to work:** [basic algorithm scripting solutions](https://github.com/diogomusou/freeCodeCamp/tree/master/BasicAlgorithmScripting)
+
+### Day 9: April 26th, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): Almost finishing the random quote machine project.  Treehouse: Finished the basic UX course.
+
+**Thoughts:** FCC: Having a hard time with API and ajax...
+
+**Discoveries:** .fromCharCode()  .charCodeAt() 
+
+**Link to work:** [Random Quote Machine](https://github.com/diogomusou/freeCodeCamp/tree/master/IntermediateFrontEndDevProjects/RandomQuoteMachine/)
