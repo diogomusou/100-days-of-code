@@ -89,3 +89,13 @@
 **Discoveries:** .fromCharCode()  .charCodeAt() 
 
 **Link to work:** [Random Quote Machine](https://github.com/diogomusou/freeCodeCamp/tree/master/IntermediateFrontEndDevProjects/RandomQuoteMachine/)
+
+### Day 10: April 27th, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): Finished the random quote machine project. 
+
+**Thoughts:** FCC: Handling regular expression and unicode was quite troublesome. I wanted to do more with this project, but I guess this is enough for now.
+
+**Discoveries:** unicode, rgba(), @keyframes
+
+**Link to work:** [Random Quote Machine](https://github.com/diogomusou/freeCodeCamp/tree/master/IntermediateFrontEndDevProjects/RandomQuoteMachine/)
