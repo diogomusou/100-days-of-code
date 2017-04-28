@@ -99,3 +99,13 @@
 **Discoveries:** unicode, rgba(), @keyframes
 
 **Link to work:** [Random Quote Machine](https://github.com/diogomusou/freeCodeCamp/tree/master/IntermediateFrontEndDevProjects/RandomQuoteMachine/)
+
+### Day 11: April 28th, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): nothing.   Udemy: Started Rob Percival 6 month challenge (Complete Web/iOS 10 Development Course)
+
+**Thoughts:** I have to be confident and get money being a web/app developer.
+
+**Discoveries:** buffer.com , niche, "I'm a developer"
+
+**Link to work:** [6 month challenge](https://www.6monthchallenge.co/)
