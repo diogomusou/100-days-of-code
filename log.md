@@ -109,3 +109,23 @@
 **Discoveries:** buffer.com , niche, "I'm a developer"
 
 **Link to work:** [6 month challenge](https://www.6monthchallenge.co/)
+
+### Day 12: April 29th, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): As a break from the projects I advanced to the Intermediate Algorithm Scripting.   Udemy: Advanced on Complete Web Development Course 2.0.
+
+**Thoughts:** 
+
+**Discoveries:** html entities (&#gt;), iframe, Math.max/min
+
+**Link to work:** [intermediate algorithm scripting solutions](https://github.com/diogomusou/freeCodeCamp/tree/master/IntermediateAlgorithmScripting)
+
+### Day 13: April 30th, 2017
+
+**Today's Progress**: freeCodeCamp(FCC): -  Udemy: Advanced on Complete Web Development Course 2.0.  Other: Learned about Grunt and Sass at https://www.taniarascia.com/  and flipping bars with CSS variable at https://www.youtube.com/watch?v=HbjYHrWHNMI
+
+**Thoughts:** My first contact with CSS preprocessors. I will try to use SASS/SCSS more often to practice. And maybe try html preprocessor HAML soon. 
+
+**Discoveries:** grunt (node.js) #{} 
+
+**Link to work:** [startgrunt repository](https://github.com/diogomusou/startgrunt)
