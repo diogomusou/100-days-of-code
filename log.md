@@ -129,3 +129,13 @@
 **Discoveries:** grunt (node.js) #{} 
 
 **Link to work:** [startgrunt repository](https://github.com/diogomusou/startgrunt)
+
+### Day 14: May 1st, 2017
+
+**Today's Progress**: Udemy: Javascript and jQuery... not so much today
+
+**Thoughts:** Watched some videos of Steve Jobs, almost joined Real Estate Flipping Course of Tai Lopez
+
+**Discoveries:** duckduckgo, alfredo
+
+**Link to work:** 
