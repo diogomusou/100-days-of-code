@@ -139,3 +139,27 @@
 **Discoveries:** duckduckgo, alfredo
 
 **Link to work:** 
+
+### Day 15: May 2nd, 2017
+
+**Today's Progress**: Udemy: only some videos of jQuery UI and Bootstrap. Also preparing for the Interview of CodeCamp (php)
+
+**Thoughts:** 
+
+**Discoveries:**  camelCase X snake_case
+
+**Link to work:** 
+
+### Day 16: May 3rd, 2017
+
+Out all day, no progress... (Osaka)
+
+### Day 16: May 4th, 2017 (Repeated day 16)
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Discoveries:** 
+
+**Link to work:** 
