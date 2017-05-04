@@ -156,10 +156,10 @@ Out all day, no progress... (Osaka)
 
 ### Day 16: May 4th, 2017 (Repeated day 16)
 
-**Today's Progress**:  
+**Today's Progress**:  CodeCamp: Reviewing PHP for my interview on Saturday.
 
 **Thoughts:** 
 
-**Discoveries:** 
+**Discoveries:** japanese characters are 3 bytes long in UTF-8, mb_strlen(), mp_rand(min,max), \`\` (back quotes) for execution commands, <pre> tag for as-is texts (eg code)
 
 **Link to work:** 
