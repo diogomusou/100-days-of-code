@@ -142,7 +142,7 @@
 
 ### Day 15: May 2nd, 2017
 
-**Today's Progress**: Udemy: only some videos of jQuery UI and Bootstrap. Also preparing for the Interview of CodeCamp (php)
+**Today's Progress**: Udemy: only some videos of jQuery UI and Bootstrap. Also preparing for the Interview of CodeCamp (php) on Saturday (6th)
 
 **Thoughts:** 
 
@@ -156,10 +156,30 @@ Out all day, no progress... (Osaka)
 
 ### Day 16: May 4th, 2017 (Repeated day 16)
 
-**Today's Progress**:  CodeCamp: Reviewing PHP for my interview on Saturday.
+**Today's Progress**:  CodeCamp: Reviewing PHP for my interview on Saturday (6th).
 
 **Thoughts:** 
 
-**Discoveries:** japanese characters are 3 bytes long in UTF-8, mb_strlen(), mp_rand(min,max), \`\` (back quotes) for execution commands, <pre> tag for as-is texts (eg code)
+**Discoveries:** japanese characters are 3 bytes long in UTF-8, mb_strlen(), mp_rand(min,max), \`\` (back quotes) for execution commands, <pre></pre> tag for as-is texts (eg code)
+
+**Link to work:** 
+
+### Day 17: May 5th, 2017
+
+**Today's Progress**:  CodeCamp: Reviewing PHP for my interview on Saturday (6th). Udemy: PHP of CompleteWebDev2. Treehouse: PHP basics and PHP standards and best practices
+
+**Thoughts:** 
+
+**Discoveries:** 
+
+**Link to work:** 
+
+### Day 18: May 6th, 2017
+
+**Today's Progress**:  CodeCamp: Reviewing PHP for my interview. Had my interview.
+
+**Thoughts:** I hope I get the job.
+
+**Discoveries:** DateTime() 
 
 **Link to work:** 
