@@ -183,3 +183,13 @@ Out all day, no progress... (Osaka)
 **Discoveries:** DateTime() 
 
 **Link to work:** 
+
+### Day 19: May 7th, 2017
+
+**Today's Progress**:  Udemy: CodePlayer project (jQuery), and started a little webpage using Twitter API
+
+**Thoughts:** Must learn how to use API better...
+
+**Discoveries:** iframe usage
+
+**Link to work:** [CodePad pen](https://codepen.io/diogomusou/full/jmaYay/)
